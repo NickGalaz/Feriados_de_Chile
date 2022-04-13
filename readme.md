@@ -5,7 +5,7 @@
 
 ## Unidad: 4 - Desafío Opcional 2
 
-#### Contenidos Desarrollados:
+#### Contenidos Desarrollado:
 
 - Introducción al lenguaje Javascript
 
