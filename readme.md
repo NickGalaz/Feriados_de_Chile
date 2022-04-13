@@ -3,7 +3,7 @@
 ### Módulo 2
 ### Programación Básica en JavaScript
 
-## Unidad: 4 - Desafío Opcional 1
+## Unidad: 4 - Desafío Opcional 2
 
 #### Contenidos Desarrollados:
 
